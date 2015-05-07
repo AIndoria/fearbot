@@ -49,31 +49,11 @@ exist
 
 * `{white}` - make the enclosed text white
 
-* `{black}` - make the enclosed text black
+* `{colour}` - make the enclosed text in any colour you specify
 
-* `{blue}` - make the enclosed text blue
+* `{lcolour}` - make the enclosed text light variant of that colour
 
-* `{red}` - make the enclosed text red
-
-* `{dred}` - make the enclosed text dark red
-
-* `{purple}` - make the enclosed text purple
-
-* `{lpurple}` - light purple
-
-* `{yellow}` - make the enclosed text yellow
-
-* `{dyellow}` - make the enclosed text dark purple
-
-* `{green}` - make the enclosed text green
-
-* `{lgreen}` - make the enclosed text light green
-
-* `{dgreen}` - make the enclosed text dark green
-
-* `{lgrey}` - make the enclosed text light grey
-
-* `{dgrey}` - make the enclosed text dark grey
+* `{dcolour}` - make the enclosed text dark variant of that colour
 
 * `{close}` - resets the color
 
